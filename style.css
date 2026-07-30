@@ -5,13 +5,14 @@ header{
  max-width: 800px;
  margin: 0 auto;
  padding: 16px;/*espaciamento interno*/
+border: 5px solid blue;
 }
 main{
- background-color: azure; 
+  background-color: azure; 
   color: black;
   text-align: center;/*alinhamento do texto*/
- max-width: 800px;/*largura máxima*/ 
- margin: 0 auto;/*espaçamento externo ao redor do elemento*/
+  max-width: 800px;/*largura máxima*/ 
+  margin: 0 auto;/*espaçamento externo ao redor do elemento*/
   } 
  
   footer{ 
