@@ -15,6 +15,7 @@ main{
   margin: 0 auto;/*espaçamento externo ao redor do elemento*/
 
   display: flex;/*habilita o uso de flex box*/
+flex-direction: row/*orienta os elemento na horizontal na ordem 1 2 3 */;
 } 
  
 footer{ 
