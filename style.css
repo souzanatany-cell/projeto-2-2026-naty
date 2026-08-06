@@ -18,8 +18,8 @@ main{
 } 
  
 footer{ 
-  background-color: rgb(246, 240, 255); 
-color:rgb(80, 34, 153)
+  background-color: rgb(185, 141, 252);/*cor de fundo*/
+color:rgb(80, 34, 153) /*cor de fonte*/
  }
 img{
 width: 80px;/*largura*/
