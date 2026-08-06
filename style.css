@@ -1,14 +1,14 @@
 header{ 
- background-color: rgb(135, 243, 243);/*cor de fundo*/   
+ background-color: rgb(105, 0, 204);/*cor de fundo*/   
   color: black;/*cor de texto*/ 
  text-align: center;
  max-width: 800px;
  margin: 0 auto;
  padding: 16px;/*espaciamento interno*/
-border: 5px solid blue;
+border: 5px solid rgb(102, 24, 133);
 }
 main{
-  background-color: azure; 
+  background-color: rgb(58, 19, 165); 
   color: black;
   text-align: center;/*alinhamento do texto*/
   max-width: 800px;/*largura máxima*/ 
@@ -16,8 +16,16 @@ main{
 } 
  
 footer{ 
-  background-color: aliceblue; 
-color:antiquewhite
+  background-color: rgb(246, 240, 255); 
+color:rgb(80, 34, 153)
  }
+img{
+
+width: 80px;/*largura*/
+height: 80px;/*altura*/
+}
+
+
+
 
  
