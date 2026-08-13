@@ -13,7 +13,7 @@ main{
   text-align: center;/*alinhamento do texto*/
   max-width: 800px;/*largura máxima*/ 
   margin: 0 auto;/*espaçamento externo ao redor do elemento*/
-
+padding: 16px;/*escapamento interno*/
   display: flex;/*habilita o uso de flex box*/
 flex-direction: row/*orienta os elemento na horizontal na ordem 1 2 3 */;
 } 
@@ -21,8 +21,12 @@ flex-direction: row/*orienta os elemento na horizontal na ordem 1 2 3 */;
 footer{ 
   background-color: rgb(185, 141, 252);/*cor de fundo*/
 color:rgb(80, 34, 153) /*cor de fonte*/
- }
+max-width: 800px;/*largura maxima*/
+}
 img{
 width: 80px;/*largura*/
 height: 80px;/*altura*/
+}
+div p {
+font-weight: bold;
 }
