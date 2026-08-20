@@ -22,6 +22,8 @@ footer{
   background-color: rgb(65, 41, 102);/*cor de fundo*/
 color:rgb(85, 41, 155) /*cor de fonte*/
 max-width: 800px;/*largura maxima*/
+display: flex;/*habilita o uso de flex box*/
+margin: 0 auto;/*espaçamento externo ao redor do elemento*/
 }
 img{
 width: 80px;/*largura*/
