@@ -1,11 +1,11 @@
 header{ 
- background-color: rgb(202, 146, 255);/*cor de fundo*/   
+ background-color: rgb(117, 0, 226);/*cor de fundo*/   
   color: black;/*cor de texto*/ 
  text-align: center;
  max-width: 800px;
  margin: 0 auto;
  padding: 16px;/*espaciamento interno*/
-border: 5px solid rgb(199, 123, 230);
+border: 5px solid rgb(191, 63, 241);
 }
 main{
   background-color: rgb(123, 92, 207); 
@@ -19,8 +19,8 @@ flex-direction: row/*orienta os elemento na horizontal na ordem 1 2 3 */;
 } 
  
 footer{ 
-  background-color: rgb(185, 141, 252);/*cor de fundo*/
-color:rgb(152, 94, 245) /*cor de fonte*/
+  background-color: rgb(65, 41, 102);/*cor de fundo*/
+color:rgb(85, 41, 155) /*cor de fonte*/
 max-width: 800px;/*largura maxima*/
 }
 img{
