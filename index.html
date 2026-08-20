@@ -35,13 +35,13 @@ e progamação </p>
 
 <body>
 <script>
-    const botao=document.querySelector("button");
-botao.addEventListener("change", botaoCLICADO);
+    const botao=document.querySelector("button");//cria uma variável chamada botão selicionada a tag "button"
+botao.addEventListener("click", botaoClicado);//verifica se o botão foi clicado 
  
 function botaoClicado(){//cria uma função
 console.log("Fui clicado");//mostra se o botão foi clicado 
-let texto=querySelector("span");
-texto=textContent++;
+let texto=document.querySelector("span");
+texto=textContent++; //muda o valor de texto adicinando de uma unidade
 
 }
 
